@@ -56,3 +56,5 @@ Higher income groups.
 Key Takeaway:
 * Focusing on applicant stability, income, family status, and loan type can significantly help banks refine loan approval strategies and mitigate default risks.
 
+Link for Dataset: https://drive.google.com/file/d/1mxB6TJ3u942QSZwPdmyGUv1MUYxOYNYl/view
+
